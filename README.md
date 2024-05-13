@@ -2,6 +2,10 @@
 
 Este proyecto consiste en una API desarrollada con Flask que permite conectar una base de datos externa a juegos de Roblox. Utiliza MongoDB como base de datos para almacenar información de los usuarios del juego.
 
+## 🚨 IMPORTANTE
+
+- **¡ATENCIÓN!**: ESTE PROYECTO ES SOLO PARA APRENDIZAJE PURO. NO SE USE EN PRODUCCION. LA SEGURIDAD ES BAJA Y CUALQUIER PERSONA PUEDE MANIPULARLA.
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
