@@ -11,7 +11,7 @@ This project consists of an API developed with Flask that allows connecting an e
 1. Clone this repository to your local machine.
 2. Ensure you have Python and pip installed on your system.
 3. Install the necessary dependencies.
-4. Configure your connection to MongoDB in your file by modifying the `uri` variable with your MongoDB URL.
+4. Configure your connection to MongoDB in your file by modifying the `url` variable with your MongoDB URL.
 
 ## Usage
 
