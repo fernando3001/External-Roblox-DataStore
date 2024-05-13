@@ -32,7 +32,7 @@ To integrate this API with your Roblox game, you can use Roblox's networking fun
 
 ## Contribution
 
-Contributions are welcome! If you wish to contribute to this project, follow these steps:
+Contributions are welcome! If you wish to contribute send me! Discord Below.
 
 ## License
 
