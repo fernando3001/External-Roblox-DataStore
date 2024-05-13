@@ -1,43 +1,43 @@
-# Conexión de Base de Datos Externa para Juegos de Roblox
+# External Database Connection for Roblox Games
 
-Este proyecto consiste en una API desarrollada con Flask que permite conectar una base de datos externa a juegos de Roblox. Utiliza MongoDB como base de datos para almacenar información de los usuarios del juego.
+This project consists of an API developed with Flask that allows connecting an external database to Roblox games. It uses MongoDB as the database to store user information.
 
-## 🚨 IMPORTANTE
+## 🚨 IMPORTANT
 
-- **¡ATENCIÓN!**: ESTE PROYECTO ES SOLO PARA APRENDIZAJE PURO. NO SE USE EN PRODUCCION. LA SEGURIDAD ES BAJA Y CUALQUIER PERSONA PUEDE MANIPULARLA.
+- **ATTENTION!**: THIS PROJECT IS FOR PURE LEARNING PURPOSES ONLY. DO NOT USE IN PRODUCTION. SECURITY IS LOW, AND ANYONE CAN MANIPULATE IT.
 
-## Instalación
+## Installation
 
-1. Clona este repositorio en tu máquina local.
-2. Asegúrate de tener Python y pip instalados en tu sistema.
-3. Instala las dependencias necesarias.
-4. Configura tu conexión a MongoDB en tu archivo modificando la variable `uri` con tu URL de MongoDB.
+1. Clone this repository to your local machine.
+2. Ensure you have Python and pip installed on your system.
+3. Install the necessary dependencies.
+4. Configure your connection to MongoDB in your file by modifying the `uri` variable with your MongoDB URL.
 
-## Uso
+## Usage
 
-1. Ejecuta la aplicación Flask.
-2. La API estará disponible en tu LocalHost.
-   
+1. Run the Flask application.
+2. The API will be available on your LocalHost.
+
 ## Endpoints
 
-- `GET /users/?user_id={user_id}`: Obtiene información de un usuario específico.
-- `POST /users/`: Crea un nuevo usuario.
-- `PUT /users/{user_id}`: Actualiza la información de un usuario existente.
+- `GET /users/?user_id={user_id}`: Retrieves information for a specific user.
+- `POST /users/`: Creates a new user.
+- `PUT /users/{user_id}`: Updates information for an existing user.
 
-Para más detalles sobre los parámetros y respuestas de cada endpoint, consulta el código fuente en `app.py`.
+For more details on the parameters and responses of each endpoint, refer to the source code in `app.py`.
 
-## Integración con Roblox
+## Integration with Roblox
 
-Para integrar esta API con tu juego de Roblox, puedes utilizar las funciones de red de Roblox para realizar solicitudes HTTP a los endpoints proporcionados por la API. Puedes utilizar las solicitudes GET, POST y PUT para interactuar con la base de datos y gestionar los datos de los usuarios de tu juego.
+To integrate this API with your Roblox game, you can use Roblox's networking functions to make HTTP requests to the endpoints provided by the API. You can use GET, POST, and PUT requests to interact with the database and manage user data for your game.
 
-## Contribución
+## Contribution
 
-¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
+Contributions are welcome! If you wish to contribute to this project, follow these steps:
 
-## Licencia
+## License
 
-Este proyecto está bajo la licencia MIT.
+This project is licensed under the MIT License.
 
-## Contacto
+## Contact
 
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de mi discord: fkooo.
+If you have any questions or suggestions about this project, feel free to contact me through my discord: fkooo.
