@@ -24,7 +24,7 @@ This project consists of an API developed with Flask that allows connecting an e
 - `POST /users/`: Creates a new user.
 - `PUT /users/{user_id}`: Updates information for an existing user.
 
-For more details on the parameters and responses of each endpoint, refer to the source code in `app.py`.
+For more details on the parameters and responses of each endpoint, refer to the source code in `endpoints.py`.
 
 ## Integration with Roblox
 
