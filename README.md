@@ -53,6 +53,7 @@ local newPutDataFromUser = {
 	Cars = 231123
 }
 HttpMethodsService.updateUserInMongoDB(UserIdToUpdate, newPutDataFromUser)
+```
 
 ## Contribution
 
