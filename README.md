@@ -57,7 +57,7 @@ HttpMethodsService.updateUserInMongoDB(UserIdToUpdate, newPutDataFromUser)
 
 ## Contribution
 
-Contributions are welcome! If you wish to contribute send me! Discord Below.
+Contributions are welcome! If you wish to contribute send me a message! Discord Below.
 
 ## License
 
